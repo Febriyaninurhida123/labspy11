@@ -22,7 +22,7 @@ Kelas : TI.22.A2
 
 ### Latihan 1
 
-![soal lat1](https://user-images.githubusercontent.com/115678171/209813077-7ea7ff90-ee80-4a78-b8af-a2fd5c911f90.png)
+![soal lat1](ss/ss1.png)
 
 #### Penjelasan Latihan 1
 - Untuk menghitung jumlah karakter, gunakan fungsi `len()`.
@@ -59,11 +59,11 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       
 #### Output Latihan 1
 
-![Run lat 1](https://user-images.githubusercontent.com/115677839/209825153-fc75ee75-a35f-41bf-9380-a3efa678f7b0.png)
+![Run lat 1](ss/Run%20Lat1.png)
 
 ### Latihan 2
 
-![soal lat2](https://user-images.githubusercontent.com/115678171/209813244-a47276a6-ec86-4541-abd0-3794dbcf1bae.png)
+![soal lat2](ss/ss2.png)
 
 #### Penjelasan Latihan 2
 Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk menempatkan variable sebelumnya.
@@ -75,7 +75,7 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
       
 #### Output Latihan 2
 
-![Run lat 2](https://user-images.githubusercontent.com/115677839/209825193-f9001bb2-21f9-41ff-85cb-640b1f96a1f0.png)
+![Run lat 2](ss/Run%20Lat2.png)
 
 
 
